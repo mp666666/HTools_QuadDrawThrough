@@ -1,0 +1,4 @@
+# Test-only dependencies for Python 2.7; not part of the runtime distribution.
+mock==3.0.5
+funcsigs==1.0.2
+six==1.16.0

@@ -1,0 +1,12 @@
+{
+  "product": "HTools_QuadDrawThrough",
+  "version": "1.0.0",
+  "installer_revision": 2,
+  "package": "Universal",
+  "maya_min": 2018,
+  "maya_max": 2027,
+  "python_major": null,
+  "qt_major": null,
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 HTools contributors"
+}
