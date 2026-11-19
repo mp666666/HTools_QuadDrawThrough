@@ -5,6 +5,11 @@
 **1.0 · 适配目标 Maya 2018–2027 · MIT 许可证**
 
 Maya 原生 **Quad Draw（四边形绘制）** 的可开关辅助工具。高模有厚度或叠层、遮住低模点时，仍可优先拾取和拖动，并可沿附近曲面松弛。保持 **Make Live → 选择低模 → Quad Draw** 的流程，无需删除内层或逐笔手动投射。
+## 开发协助 / Development assistance
+
+本项目在 OpenAI CodexGPT 的协助下完成开发、调试与测试。
+
+Developed, debugged, and tested with assistance from OpenAI CodexGPT.
 
 ## 安装
 
