@@ -5,7 +5,11 @@
 **1.0 · Maya 2018–2027 compatibility target · MIT**
 
 An optional helper for Maya's native **Quad Draw**. Pick and drag existing low-poly vertices hidden by thick or layered Live meshes, with optional local-surface relax. Keep the usual **Make Live → select low-poly → Quad Draw** workflow without removing inner layers or manually projecting each stroke.
+## 开发协助 / Development assistance
 
+本项目在 OpenAI CodexGPT 的协助下完成开发、调试与测试。
+
+Developed, debugged, and tested with assistance from OpenAI CodexGPT.
 ## Install
 
 1. Download [HTools_QuadDrawThrough_v1.0_Install.mel](HTools_QuadDrawThrough_v1.0_Install.mel) with GitHub's **Download raw file** button, or extract it from the source ZIP.
